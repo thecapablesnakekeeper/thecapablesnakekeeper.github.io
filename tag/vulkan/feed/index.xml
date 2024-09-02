@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>vulkan Archives - Saksham Nagpal</title>
+	<atom:link href="/tag/vulkan/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/vulkan/</link>
+	<description></description>
+	<lastBuildDate>Tue, 16 Jan 2024 15:25:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2023/08/website_logo.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>vulkan Archives - Saksham Nagpal</title>
+	<link>/tag/vulkan/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">230917713</site>	<item>
+		<title>Vulkan Grass Rendering</title>
+		<link>/vulkan-grass-rendering/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=vulkan-grass-rendering</link>
+		
+		<dc:creator><![CDATA[Saksham Nagpal]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2023 01:10:19 +0000</pubDate>
+				<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Rendering]]></category>
+		<category><![CDATA[Research Impl]]></category>
+		<category><![CDATA[compute]]></category>
+		<category><![CDATA[rendering]]></category>
+		<category><![CDATA[vulkan]]></category>
+		<guid isPermaLink="false">http://box5372/cgi/addon_GT.cgi?s=GT::WP::Install::Cpanel+%28nasqgimy%29+-+127.0.0.1+%5Bnocaller%5D/?p=1</guid>
+
+					<description><![CDATA[<p><b>Vulkan, C++</b><br />
+Compute &#124; Tessellation &#124; LOD &#124;<br />
+ Frustum/Distance/View Culling</p>
+<p>The post <a href="/vulkan-grass-rendering/">Vulkan Grass Rendering</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/vulkan-grass-rendering/">Vulkan Grass Rendering</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>

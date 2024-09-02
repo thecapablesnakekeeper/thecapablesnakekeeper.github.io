@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>lego Archives - Saksham Nagpal</title>
+	<atom:link href="/tag/lego/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/lego/</link>
+	<description></description>
+	<lastBuildDate>Sun, 14 Jan 2024 21:44:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2023/08/website_logo.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>lego Archives - Saksham Nagpal</title>
+	<link>/tag/lego/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">230917713</site>	<item>
+		<title>Mesh Legofier</title>
+		<link>/mesh-legofier/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=mesh-legofier</link>
+		
+		<dc:creator><![CDATA[Saksham Nagpal]]></dc:creator>
+		<pubDate>Fri, 28 Apr 2023 21:36:27 +0000</pubDate>
+				<category><![CDATA[Procedural]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[houdini]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[procedural]]></category>
+		<guid isPermaLink="false">/?p=385</guid>
+
+					<description><![CDATA[<p><b>Houdini</b><br />
+Custom Node &#124; 3 Block Types &#124; <br />
+3 Configurable Parameters</p>
+<p>The post <a href="/mesh-legofier/">Mesh Legofier</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/mesh-legofier/">Mesh Legofier</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">385</post-id>	</item>
+	</channel>
+</rss>

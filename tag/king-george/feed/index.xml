@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>king george Archives - Saksham Nagpal</title>
+	<atom:link href="/tag/king-george/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/king-george/</link>
+	<description></description>
+	<lastBuildDate>Wed, 17 Jan 2024 10:04:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2023/08/website_logo.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>king george Archives - Saksham Nagpal</title>
+	<link>/tag/king-george/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">230917713</site>	<item>
+		<title>Modeling King George</title>
+		<link>/modeling-king-george/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=modeling-king-george</link>
+		
+		<dc:creator><![CDATA[Saksham Nagpal]]></dc:creator>
+		<pubDate>Thu, 10 Nov 2022 09:59:19 +0000</pubDate>
+				<category><![CDATA[Modeling]]></category>
+		<category><![CDATA[Themed]]></category>
+		<category><![CDATA[3d]]></category>
+		<category><![CDATA[3d modeling]]></category>
+		<category><![CDATA[arnold]]></category>
+		<category><![CDATA[hamilton]]></category>
+		<category><![CDATA[king george]]></category>
+		<category><![CDATA[maya]]></category>
+		<category><![CDATA[modeling]]></category>
+		<category><![CDATA[render]]></category>
+		<guid isPermaLink="false">/?p=471</guid>
+
+					<description><![CDATA[<p><b>Maya, Arnold</b><br />
+3D Modeling &#124; Character </p>
+<p>The post <a href="/modeling-king-george/">Modeling King George</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="471" class="elementor elementor-471">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-ff65cbb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ff65cbb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-63aa5b4" data-id="63aa5b4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-06ebc84 elementor-widget elementor-widget-text-editor" data-id="06ebc84" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 05-08-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>For my 3D Modeling class’ Character Modeling project, I chose to model King George from Hamilton because of my love for the musical. This was also an extension of my Environment Modeling project where I modeled the stage of the musical, feel free to check that out in my projects section as well. Again, I am by no means an artist and this course was the only time I ever did 3D Modeling so please excuse my infancy with the art, but I was personally very satisfied with how the result turned out to be after putting in a lot of hours. Please find below some fun renders I got using the Arnold Renderer after I completed the modeling in Maya:</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e54eec1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e54eec1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1c6b0a3" data-id="1c6b0a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ecd404 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="6ecd404" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 05-08-2024 */
+.elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="character_front" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDc0LCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL2NoYXJhY3Rlcl9mcm9udC5qcGciLCJzbGlkZXNob3ciOiI2ZWNkNDA0In0%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front.jpg?ssl=1'><img fetchpriority="high" decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="character_front2" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDc1LCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL2NoYXJhY3Rlcl9mcm9udDIuanBnIiwic2xpZGVzaG93IjoiNmVjZDQwNCJ9" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front2.jpg?ssl=1'><img decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front2.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front2.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front2.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_front2.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="character_leftangle" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDc2LCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL2NoYXJhY3Rlcl9sZWZ0YW5nbGUuanBnIiwic2xpZGVzaG93IjoiNmVjZDQwNCJ9" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_leftangle.jpg?ssl=1'><img decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_leftangle.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_leftangle.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_leftangle.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_leftangle.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="character_rightangle" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDc3LCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL2NoYXJhY3Rlcl9yaWdodGFuZ2xlLmpwZyIsInNsaWRlc2hvdyI6IjZlY2Q0MDQifQ%3D%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_rightangle.jpg?ssl=1'><img loading="lazy" decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_rightangle.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_rightangle.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_rightangle.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/character_rightangle.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="face_anglecloseup" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDc4LCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL2ZhY2VfYW5nbGVjbG9zZXVwLmpwZyIsInNsaWRlc2hvdyI6IjZlY2Q0MDQifQ%3D%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_anglecloseup.jpg?ssl=1'><img loading="lazy" decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_anglecloseup.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_anglecloseup.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_anglecloseup.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_anglecloseup.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="face_closeup" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDc5LCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL2ZhY2VfY2xvc2V1cC0xLmpwZyIsInNsaWRlc2hvdyI6IjZlY2Q0MDQifQ%3D%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_closeup-1.jpg?ssl=1'><img loading="lazy" decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_closeup-1.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_closeup-1.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_closeup-1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/face_closeup-1.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="hands" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDgwLCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL2hhbmRzLmpwZyIsInNsaWRlc2hvdyI6IjZlY2Q0MDQifQ%3D%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/hands.jpg?ssl=1'><img loading="lazy" decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/hands.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/hands.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/hands.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/hands.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="legs" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDgxLCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL2xlZ3MuanBnIiwic2xpZGVzaG93IjoiNmVjZDQwNCJ9" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/legs.jpg?ssl=1'><img loading="lazy" decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/legs.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/legs.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/legs.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/legs.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="stage_shot" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDgyLCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL3N0YWdlX3Nob3QuanBnIiwic2xpZGVzaG93IjoiNmVjZDQwNCJ9" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/stage_shot.jpg?ssl=1'><img loading="lazy" decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/stage_shot.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/stage_shot.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/stage_shot.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/stage_shot.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6ecd404" data-elementor-lightbox-title="torso_detailing" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDgzLCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL3RvcnNvX2RldGFpbGluZy5qcGciLCJzbGlkZXNob3ciOiI2ZWNkNDA0In0%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/torso_detailing.jpg?ssl=1'><img loading="lazy" decoding="async" width="960" height="540" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/torso_detailing.jpg?fit=960%2C540&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/torso_detailing.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/torso_detailing.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/torso_detailing.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/modeling-king-george/">Modeling King George</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">471</post-id>	</item>
+	</channel>
+</rss>

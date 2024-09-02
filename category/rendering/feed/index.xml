@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Rendering Archives - Saksham Nagpal</title>
+	<atom:link href="/category/rendering/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/rendering/</link>
+	<description></description>
+	<lastBuildDate>Wed, 17 Jan 2024 09:44:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2023/08/website_logo.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Rendering Archives - Saksham Nagpal</title>
+	<link>/category/rendering/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">230917713</site>	<item>
+		<title>Realtime Erosion Simulation in WebGPU</title>
+		<link>/realtime-erosion-simulation-in-webgpu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=realtime-erosion-simulation-in-webgpu</link>
+		
+		<dc:creator><![CDATA[Saksham Nagpal]]></dc:creator>
+		<pubDate>Tue, 12 Dec 2023 09:16:59 +0000</pubDate>
+				<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Interactive]]></category>
+		<category><![CDATA[Rendering]]></category>
+		<category><![CDATA[Research Impl]]></category>
+		<category><![CDATA[Tooling]]></category>
+		<category><![CDATA[erosion]]></category>
+		<category><![CDATA[gpu]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[rendering]]></category>
+		<category><![CDATA[tech art]]></category>
+		<category><![CDATA[terrain]]></category>
+		<guid isPermaLink="false">/?p=365</guid>
+
+					<description><![CDATA[<p><b>WebGPU, TypeScript</b><br />
+WebGPU Compute &#124; Realtime &#124; <br />Authoring Tool &#124; Live Demo </p>
+<p>The post <a href="/realtime-erosion-simulation-in-webgpu/">Realtime Erosion Simulation in WebGPU</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/realtime-erosion-simulation-in-webgpu/">Realtime Erosion Simulation in WebGPU</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">365</post-id>	</item>
+		<item>
+		<title>Vulkan Grass Rendering</title>
+		<link>/vulkan-grass-rendering/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=vulkan-grass-rendering</link>
+		
+		<dc:creator><![CDATA[Saksham Nagpal]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2023 01:10:19 +0000</pubDate>
+				<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Rendering]]></category>
+		<category><![CDATA[Research Impl]]></category>
+		<category><![CDATA[compute]]></category>
+		<category><![CDATA[rendering]]></category>
+		<category><![CDATA[vulkan]]></category>
+		<guid isPermaLink="false">http://box5372/cgi/addon_GT.cgi?s=GT::WP::Install::Cpanel+%28nasqgimy%29+-+127.0.0.1+%5Bnocaller%5D/?p=1</guid>
+
+					<description><![CDATA[<p><b>Vulkan, C++</b><br />
+Compute &#124; Tessellation &#124; LOD &#124;<br />
+ Frustum/Distance/View Culling</p>
+<p>The post <a href="/vulkan-grass-rendering/">Vulkan Grass Rendering</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/vulkan-grass-rendering/">Vulkan Grass Rendering</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+		<item>
+		<title>CUDA Denoiser</title>
+		<link>/cuda-denoiser/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=cuda-denoiser</link>
+		
+		<dc:creator><![CDATA[Saksham Nagpal]]></dc:creator>
+		<pubDate>Sat, 30 Sep 2023 09:49:01 +0000</pubDate>
+				<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Rendering]]></category>
+		<category><![CDATA[Research Impl]]></category>
+		<category><![CDATA[cuda]]></category>
+		<category><![CDATA[gpu]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[pbr]]></category>
+		<category><![CDATA[rendering]]></category>
+		<guid isPermaLink="false">/?p=376</guid>
+
+					<description><![CDATA[<p><b>CUDA, C++, OpenGL</b><br />
+Raytracing &#124; Denoising &#124; <br />
+Atrous Wavelet Transform</p>
+<p>The post <a href="/cuda-denoiser/">CUDA Denoiser</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/cuda-denoiser/">CUDA Denoiser</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">376</post-id>	</item>
+		<item>
+		<title>CUDA Path Tracer</title>
+		<link>/cuda-path-tracer/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=cuda-path-tracer</link>
+		
+		<dc:creator><![CDATA[Saksham Nagpal]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 03:15:17 +0000</pubDate>
+				<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Rendering]]></category>
+		<category><![CDATA[cuda]]></category>
+		<category><![CDATA[gpu]]></category>
+		<category><![CDATA[pbr]]></category>
+		<category><![CDATA[rendering]]></category>
+		<guid isPermaLink="false">/?p=128</guid>
+
+					<description><![CDATA[<ul>
+<li><b>CUDA, C++, OpenGL</b>
+<li>glTF Mesh Loading &#124; BVH &#124;
+<li>Depth Of Field &#124; Anti-Aliasing &#124;
+<li>Materials - Diffuse, Reflective, Refractive
+</ul>
+<p>The post <a href="/cuda-path-tracer/">CUDA Path Tracer</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/cuda-path-tracer/">CUDA Path Tracer</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">128</post-id>	</item>
+		<item>
+		<title>SDF-based PBR Pokeballs</title>
+		<link>/sdf-based-pbr-pokeballs/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=sdf-based-pbr-pokeballs</link>
+		
+		<dc:creator><![CDATA[Saksham Nagpal]]></dc:creator>
+		<pubDate>Sun, 30 Apr 2023 22:33:27 +0000</pubDate>
+				<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Procedural]]></category>
+		<category><![CDATA[Rendering]]></category>
+		<category><![CDATA[Research Impl]]></category>
+		<category><![CDATA[Themed]]></category>
+		<category><![CDATA[gpu]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[pbr]]></category>
+		<category><![CDATA[pokemon]]></category>
+		<category><![CDATA[procedural]]></category>
+		<category><![CDATA[rendering]]></category>
+		<category><![CDATA[shaders]]></category>
+		<guid isPermaLink="false">/?p=342</guid>
+
+					<description><![CDATA[<p><b>C++, Qt, OpenGL</b><br />
+Realtime PBR &#124; Environment Mapping &#124; <br />
+SDF &#124; Raymarch &#124; Subsurface Scattering </p>
+<p>The post <a href="/sdf-based-pbr-pokeballs/">SDF-based PBR Pokeballs</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="342" class="elementor elementor-342">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-97771c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="97771c7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4a8f701" data-id="4a8f701" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-714071f elementor-widget elementor-widget-text-editor" data-id="714071f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 05-08-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>In this C++/OpenGL project, I created Pokeballs using Signed Distance Functions (SDFs) and also implemented the realtime PBR pipeline based on the paper <a href="https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf">Real Shading in Unreal Engine 4</a>. Some basic Qt tooling allows an interactive program like the following:</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0d47f0b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d47f0b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aeb645f" data-id="aeb645f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3561f97 elementor-widget elementor-widget-video" data-id="3561f97" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 05-08-2024 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;right:0;bottom:0;left:0;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%;aspect-ratio:var(--video-aspect-ratio);-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-custom-embed-image-overlay{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-custom-embed-image-overlay img{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="/wp-content/uploads/2024/01/pbr_demo.mp4" loop="" controls="" preload="metadata" muted="muted" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8909137 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8909137" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5bfdac6" data-id="5bfdac6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-65b8a2f elementor-widget elementor-widget-spacer" data-id="65b8a2f" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 05-08-2024 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container{height:100%;width:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty,.e-con>.elementor-widget-spacer.elementor-widget-empty{position:relative;min-height:22px;min-width:22px}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon,.e-con>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon{position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;padding:0;width:22px;height:22px}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-31b3b68 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="31b3b68" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-df12d1c" data-id="df12d1c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-00bf85d elementor-widget elementor-widget-text-editor" data-id="00bf85d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>The PBR Pipeline consists of:</strong></p>
+<ol>
+<li>Cook-Torrance Microfacet Specular BRDF:
+<ul>
+<li>&nbsp;GGX/Trowbridge-Reitz Distribution Function</li>
+<li>Schlick Model for Geometric Attenuation</li>
+<li>Schlick&#8217;s Approximation for Fresnel</li>
+</ul>
+</li>
+<li>Image-based Lighting
+<ol>
+<li>Environment Map Sampling</li>
+<li>&nbsp;Precomputed Diffuse &amp; Specular Reflections</li>
+<li>Mipmapping to avoid artifacts</li>
+</ol>
+</li>
+</ol>
+<p><strong>The SDF implementation comprises of:</strong></p>
+<ol>
+<li>Raymarching</li>
+<li>3 different SDFs for Normal Ball, Great Ball, Ultra Ball</li>
+<li>Normal computation for SDFs</li>
+<li>Domain Repetition based on <a href="https://iquilezles.org/articles/distfunctions/">this</a> article from Inigo Quilez</li><li>Perlin Noise for adding rotational variation</li>
+</ol>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2bba941 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bba941" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d201012" data-id="d201012" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f9ff980 elementor-widget elementor-widget-text-editor" data-id="f9ff980" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Here are some fun renders with different types of Pokeballs, environment maps, and roughness/metallic settings:</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c65742a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c65742a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b87d8d2" data-id="b87d8d2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c2b8284 elementor-widget elementor-widget-image-gallery" data-id="c2b8284" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 05-08-2024 */
+.elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="c2b8284" data-elementor-lightbox-title="model1" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzUxLCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL21vZGVsMS5qcGciLCJzbGlkZXNob3ciOiJjMmI4Mjg0In0%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model1.jpg?ssl=1'><img fetchpriority="high" decoding="async" width="768" height="546" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model1.jpg?fit=768%2C546&amp;ssl=1" class="attachment-medium_large size-medium_large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model1.jpg?w=1130&amp;ssl=1 1130w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model1.jpg?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model1.jpg?resize=1024%2C728&amp;ssl=1 1024w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model1.jpg?resize=768%2C546&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="c2b8284" data-elementor-lightbox-title="model3" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzUzLCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL21vZGVsMy5qcGciLCJzbGlkZXNob3ciOiJjMmI4Mjg0In0%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model3.jpg?ssl=1'><img decoding="async" width="768" height="546" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model3.jpg?fit=768%2C546&amp;ssl=1" class="attachment-medium_large size-medium_large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model3.jpg?w=1130&amp;ssl=1 1130w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model3.jpg?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model3.jpg?resize=1024%2C728&amp;ssl=1 1024w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model3.jpg?resize=768%2C546&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="c2b8284" data-elementor-lightbox-title="model2" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzUyLCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL21vZGVsMi5qcGciLCJzbGlkZXNob3ciOiJjMmI4Mjg0In0%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model2.jpg?ssl=1'><img decoding="async" width="768" height="546" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model2.jpg?fit=768%2C546&amp;ssl=1" class="attachment-medium_large size-medium_large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model2.jpg?w=1130&amp;ssl=1 1130w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model2.jpg?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model2.jpg?resize=1024%2C728&amp;ssl=1 1024w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/model2.jpg?resize=768%2C546&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="c2b8284" data-elementor-lightbox-title="oprep1" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzU0LCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL29wcmVwMS5qcGciLCJzbGlkZXNob3ciOiJjMmI4Mjg0In0%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep1.jpg?ssl=1'><img loading="lazy" decoding="async" width="768" height="546" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep1.jpg?fit=768%2C546&amp;ssl=1" class="attachment-medium_large size-medium_large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep1.jpg?w=1130&amp;ssl=1 1130w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep1.jpg?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep1.jpg?resize=1024%2C728&amp;ssl=1 1024w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep1.jpg?resize=768%2C546&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="c2b8284" data-elementor-lightbox-title="oprep2" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzU1LCJ1cmwiOiJodHRwczpcL1wvdGhlY2FwYWJsZXNuYWtla2VlcGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDFcL29wcmVwMi5qcGciLCJzbGlkZXNob3ciOiJjMmI4Mjg0In0%3D" href='https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep2.jpg?ssl=1'><img loading="lazy" decoding="async" width="768" height="546" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep2.jpg?fit=768%2C546&amp;ssl=1" class="attachment-medium_large size-medium_large" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep2.jpg?w=1130&amp;ssl=1 1130w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep2.jpg?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep2.jpg?resize=1024%2C728&amp;ssl=1 1024w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/oprep2.jpg?resize=768%2C546&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/sdf-based-pbr-pokeballs/">SDF-based PBR Pokeballs</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="/wp-content/uploads/2024/01/pbr_demo.mp4" length="9017093" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">342</post-id>	</item>
+		<item>
+		<title>WandaVision themed Minecraft</title>
+		<link>/wandavision-themed-minecraft/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=wandavision-themed-minecraft</link>
+		
+		<dc:creator><![CDATA[Saksham Nagpal]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2022 09:08:59 +0000</pubDate>
+				<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Procedural]]></category>
+		<category><![CDATA[Rendering]]></category>
+		<category><![CDATA[Themed]]></category>
+		<category><![CDATA[gpu]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[procedural]]></category>
+		<category><![CDATA[rendering]]></category>
+		<category><![CDATA[shaders]]></category>
+		<category><![CDATA[tech art]]></category>
+		<guid isPermaLink="false">/?p=227</guid>
+
+					<description><![CDATA[<p><b>C++, OpenGL</b><br /> <br />
+Post-Process &#124; Efficient Terrain &#124; <br />
+Timeline Shaders &#124; Procedural Caves</p>
+<p>The post <a href="/wandavision-themed-minecraft/">WandaVision themed Minecraft</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="227" class="elementor elementor-227">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-c01c688 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c01c688" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-992ada5" data-id="992ada5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6d4657d elementor-widget elementor-widget-text-editor" data-id="6d4657d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>In the first semester of my Masters, I worked on building a miniature version of Minecraft in a group of 3 for my Interactive Compute Graphics course&#8217;s final project. WandaVision is one of my favorite TV shows, and I suggested to my team that we incorporate some elements from the same to make our project fun. I was responsible for the following implementations:</p><ol><li><a href="#eff-terr">Efficient Terrain Rendering</a></li><li><a href="#mul-passes">Pipeline for multiple render passes</a></li><li><a href="#timeline-shaders">Timeline Shaders &#8211; Chromatic Aberration, Greyscale, Toon Shading</a></li><li><a href="#sdf-hex">SDF Hex</a></li><li><a href="#water-lava">Noise-based Lava &amp; Water Post-Process Overlays</a></li><li><a href="#caves">Procedural Caves</a></li></ol><div>As a quick summary, pressing H casts the &#8216;Hex&#8217; &#8211; a hexagonal structure that grows around the player up till a certain radius. There are 3 different timelines &#8211; the 60&#8217;s greyscale timeline, the 80&#8217;s toon-shaded timeline, and the current unstable timeline. Pressing H repeatedly cycles through these 3 timelines. The timeline effects are contained within the hex boundaries.</div><p>Here is our final submission video:</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-19f5444 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19f5444" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0ad04a1" data-id="0ad04a1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-585bd68 elementor-widget elementor-widget-video" data-id="585bd68" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Ma94eS7i2eY&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f731d74 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f731d74" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c63b80" data-id="0c63b80" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4baed28 elementor-widget elementor-widget-spacer" data-id="4baed28" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ad5f3d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ad5f3d7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7e8f461" data-id="7e8f461" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4fcb4ee elementor-widget elementor-widget-heading" data-id="4fcb4ee" data-element_type="widget" id="eff-terr" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 05-08-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h3 class="elementor-heading-title elementor-size-default">Efficient Terrain Rendering</h3>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a812fb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a812fb4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a5b29e3" data-id="a5b29e3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5f0d708 elementor-widget elementor-widget-text-editor" data-id="5f0d708" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>As we know, all assets in Minecraft are rendered as cubes. The initial implementation of our project used instanced rendering to place each cube at its respective coordinates independently. But this results in an overdraw because the faces getting drawn between two consecutive cubes are not visible to the player. Hence, I implemented a better rendering process that checks for solid cube neighbors for each cube and decides which faces to draw. This makes the solid terrain look hollow if viewed from the inside, as shown in the pictures.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cd9db6a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cd9db6a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8668189" data-id="8668189" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7347429 elementor-widget elementor-widget-image" data-id="7347429" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 05-08-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>							<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="1024" height="506" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_outside.png?fit=1024%2C506&amp;ssl=1" class="attachment-large size-large wp-image-265" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_outside.png?w=1887&amp;ssl=1 1887w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_outside.png?resize=300%2C148&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_outside.png?resize=1024%2C506&amp;ssl=1 1024w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_outside.png?resize=768%2C379&amp;ssl=1 768w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_outside.png?resize=1536%2C759&amp;ssl=1 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />											<figcaption class="widget-image-caption wp-caption-text">Terrain as visible to the player</figcaption>
+										</figure>
+							</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9a0bc88" data-id="9a0bc88" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d4a55bd elementor-widget elementor-widget-image" data-id="d4a55bd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="1024" height="505" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_inside.png?fit=1024%2C505&amp;ssl=1" class="attachment-large size-large wp-image-266" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_inside.png?w=1886&amp;ssl=1 1886w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_inside.png?resize=300%2C148&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_inside.png?resize=1024%2C505&amp;ssl=1 1024w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_inside.png?resize=768%2C379&amp;ssl=1 768w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/chunking_inside.png?resize=1536%2C757&amp;ssl=1 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />											<figcaption class="widget-image-caption wp-caption-text">Same 'hollowed' terrain when viewed from the inside</figcaption>
+										</figure>
+							</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fc0dfe5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fc0dfe5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de39974" data-id="de39974" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cefccdd elementor-widget elementor-widget-spacer" data-id="cefccdd" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fe36352 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fe36352" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2d1160e" data-id="2d1160e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5b1ce62 elementor-widget elementor-widget-spacer" data-id="5b1ce62" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b5aab2c elementor-widget elementor-widget-heading" data-id="b5aab2c" data-element_type="widget" id="mul-passes" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Multiple Render Passes</h3>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d5635e1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d5635e1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f87f66b" data-id="f87f66b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e8e1c41 elementor-widget elementor-widget-text-editor" data-id="e8e1c41" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>In order to be able to apply different timeline-based shaders inside the Hex as well as different post-processing overlays like when under water or lava, I needed to use multiple frame buffers to be able to store the result from a render pass somewhere and to use it for compositing or as-is in the subsequent passes. A brief summary of my approach is as follows:</p><ol><li>First, I draw the entire terrain as-is and store it in a frame buffer.</li><li>Next, I apply the timeline-based effect on this terrain and store the result in a second frame buffer.</li><li>I use a Signed Distance Field (SDF) to calculate the Hex boundaries when the player hits the key H, and store it as a black-and-white image in a frame buffer. Black areas represent the terrain that lies inside the hex, while the white areas are the parts lying outside.</li><li>I then use the black-and-white hex bounds frame buffer to composite the normally drawn terrain with the timeline-based post-process overlay.</li><li>Any other post-processing like under-water or under-lava effects are applied on top of the final composition and rendered to the screen in addition to drawing the actual TV-static-like Hex.</li></ol><p>Here is a flow diagram that summarizes the approach described above:</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e13ee3f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e13ee3f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-adf3f9b" data-id="adf3f9b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-dc4c883 elementor-widget elementor-widget-image" data-id="dc4c883" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1536" height="422" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/render_passes.png?fit=1536%2C422&amp;ssl=1" class="attachment-1536x1536 size-1536x1536 wp-image-273" alt="" srcset="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/render_passes.png?w=3861&amp;ssl=1 3861w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/render_passes.png?resize=300%2C82&amp;ssl=1 300w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/render_passes.png?resize=1024%2C281&amp;ssl=1 1024w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/render_passes.png?resize=768%2C211&amp;ssl=1 768w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/render_passes.png?resize=1536%2C422&amp;ssl=1 1536w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/render_passes.png?resize=2048%2C563&amp;ssl=1 2048w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/render_passes.png?w=2400&amp;ssl=1 2400w, https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/render_passes.png?w=3600&amp;ssl=1 3600w" sizes="(max-width: 1200px) 100vw, 1200px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f6701f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f6701f7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7698e4a" data-id="7698e4a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-342bcf6 elementor-widget elementor-widget-spacer" data-id="342bcf6" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-55add68 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="55add68" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f6a0570" data-id="f6a0570" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5827fdf elementor-widget elementor-widget-heading" data-id="5827fdf" data-element_type="widget" id="timeline-shaders" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Timeline Shaders</h3>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-abf8986 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="abf8986" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-deab2a0" data-id="deab2a0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4326835 elementor-widget elementor-widget-video" data-id="4326835" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="/wp-content/uploads/2024/01/timeline_greyscale.mp4" controls="" preload="metadata" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3c7dc48" data-id="3c7dc48" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9cd9af0 elementor-widget elementor-widget-text-editor" data-id="9cd9af0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>60&#8217;s Timeline</strong><br />A simple fragment shader that applies a greyscale overlay.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9a7c5cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9a7c5cb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3075409" data-id="3075409" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e80810e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="e80810e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 05-08-2024 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-08598b1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="08598b1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d527638" data-id="d527638" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-355c511 elementor-widget elementor-widget-text-editor" data-id="355c511" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>80&#8217;s Timeline</strong><br />A fragment shader that applies Toon Shading.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e16466d" data-id="e16466d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a1af70 elementor-widget elementor-widget-video" data-id="5a1af70" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="/wp-content/uploads/2024/01/timeline_toon.mp4" controls="" preload="metadata" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-53bcb0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="53bcb0f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-281d07b" data-id="281d07b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-230e4ab elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="230e4ab" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-32e4ec1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="32e4ec1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4e0f52d" data-id="4e0f52d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fa5a250 elementor-widget elementor-widget-video" data-id="fa5a250" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="/wp-content/uploads/2024/01/timeline_dyst.mp4" controls="" preload="metadata" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2997673" data-id="2997673" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a1fc9ee elementor-widget elementor-widget-text-editor" data-id="a1fc9ee" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Dystopian (Current) Timeline</strong><br />Vertex shader for the terrain jittering effect,<br />fragment shader for Chromatic Aberration.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8f4321a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8f4321a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9f854d0" data-id="9f854d0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-30beda4 elementor-widget elementor-widget-spacer" data-id="30beda4" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1dc75f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1dc75f0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0eb56d7" data-id="0eb56d7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-27a2066 elementor-widget elementor-widget-heading" data-id="27a2066" data-element_type="widget" id="sdf-hex" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">SDF Hex</h3>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-bb2e484 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bb2e484" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bf2d3b7" data-id="bf2d3b7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7d9522f elementor-widget elementor-widget-text-editor" data-id="7d9522f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The Hex is a signed distance function that spans a certain radius around the player when the H key is pressed. It starts growing around the player and continues to gradually grow till a configured threshold is reached. A TV-static-like red tinted noise function is used to render the vertical terrain-spanning hex walls. All timeline-based effects are restricted to the Hex bounds, even if they cut across cubes.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6415025 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6415025" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-08ef69d" data-id="08ef69d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b269c42 elementor-widget elementor-widget-image" data-id="b269c42" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="426" height="240" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/hex_2.gif?fit=426%2C240&amp;ssl=1" class="attachment-large size-large wp-image-314" alt="" />											<figcaption class="widget-image-caption wp-caption-text">Casting Hex by pressing the H key</figcaption>
+										</figure>
+							</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-faebf99" data-id="faebf99" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9b7119d elementor-widget elementor-widget-image" data-id="9b7119d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="426" height="240" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/hex_1.gif?fit=426%2C240&amp;ssl=1" class="attachment-large size-large wp-image-313" alt="" />											<figcaption class="widget-image-caption wp-caption-text">Vertical Terrain-Spanning TV Static-like  Hex</figcaption>
+										</figure>
+							</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-95ace38" data-id="95ace38" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3ca3db6 elementor-widget elementor-widget-image" data-id="3ca3db6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="426" height="240" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/hex_3.gif?fit=426%2C240&amp;ssl=1" class="attachment-large size-large wp-image-315" alt="" />											<figcaption class="widget-image-caption wp-caption-text">Timeline effects restricted to Hex bounds</figcaption>
+										</figure>
+							</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4ae37b2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4ae37b2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-65d1017" data-id="65d1017" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-305aa63 elementor-widget elementor-widget-spacer" data-id="305aa63" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7e66c18 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7e66c18" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-af26362" data-id="af26362" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-130c9d8 elementor-widget elementor-widget-heading" data-id="130c9d8" data-element_type="widget" id="water-lava" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Noise-based Overlays</h3>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c8a48ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c8a48ca" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3625830" data-id="3625830" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7724612 elementor-widget elementor-widget-image" data-id="7724612" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="426" height="240" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/water.gif?fit=426%2C240&amp;ssl=1" class="attachment-large size-large wp-image-322" alt="" />											<figcaption class="widget-image-caption wp-caption-text">Perlin-interbed time varying FBM for underwater effect </figcaption>
+										</figure>
+							</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c6cb6bd" data-id="c6cb6bd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-727e012 elementor-widget elementor-widget-image" data-id="727e012" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="426" height="240" src="https://i0.wp.com/thecapablesnakekeeper.com/wp-content/uploads/2024/01/lava.gif?fit=426%2C240&amp;ssl=1" class="attachment-large size-large wp-image-323" alt="" />											<figcaption class="widget-image-caption wp-caption-text">Perlin-based time varying under-lava effect</figcaption>
+										</figure>
+							</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9bc0126 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9bc0126" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7ddf59a" data-id="7ddf59a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4ddacd5 elementor-widget elementor-widget-spacer" data-id="4ddacd5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dee3a8f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dee3a8f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22c9da2" data-id="22c9da2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-395e998 elementor-widget elementor-widget-heading" data-id="395e998" data-element_type="widget" id="caves" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Procedural Caves</h3>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1a98854 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a98854" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9204096" data-id="9204096" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ea8051 elementor-widget elementor-widget-text-editor" data-id="6ea8051" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>I used 3D Perlin Noise to place the blocks for caves under the terrain. I scale it appropriately so that Perlin gives nice wide openings to allow player movement.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f825aa" data-id="6f825aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b4d1376 elementor-widget elementor-widget-video" data-id="b4d1376" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="/wp-content/uploads/2024/01/Caves.mp4" controls="" preload="metadata" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/wandavision-themed-minecraft/">WandaVision themed Minecraft</a> appeared first on <a href="/">Saksham Nagpal</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="/wp-content/uploads/2024/01/timeline_greyscale.mp4" length="29130635" type="video/mp4" />
+<enclosure url="/wp-content/uploads/2024/01/timeline_toon.mp4" length="13955672" type="video/mp4" />
+<enclosure url="/wp-content/uploads/2024/01/timeline_dyst.mp4" length="14235218" type="video/mp4" />
+<enclosure url="/wp-content/uploads/2024/01/Caves.mp4" length="96579459" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">227</post-id>	</item>
+	</channel>
+</rss>
