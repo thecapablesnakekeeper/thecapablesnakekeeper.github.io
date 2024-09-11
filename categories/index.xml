@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on The Capable Snakekeeper and all his wrongdoings</title>
+    <link>https://Saksham03.github.io/categories/</link>
+    <description>Recent content in Categories on The Capable Snakekeeper and all his wrongdoings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2024 23:36:56 -0500</lastBuildDate>
+    <atom:link href="https://Saksham03.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Category1</title>
+      <link>https://Saksham03.github.io/categories/category1/</link>
+      <pubDate>Tue, 10 Sep 2024 23:36:56 -0500</pubDate>
+      <guid>https://Saksham03.github.io/categories/category1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
