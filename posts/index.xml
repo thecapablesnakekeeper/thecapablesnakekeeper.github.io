@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Capable Snakekeeper and all his wrongdoings</title>
-    <link>https://Saksham03.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2024 23:36:56 -0500</lastBuildDate>
-    <atom:link href="https://Saksham03.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test1</title>
-      <link>https://Saksham03.github.io/posts/test1/</link>
-      <pubDate>Tue, 10 Sep 2024 23:36:56 -0500</pubDate>
-      <guid>https://Saksham03.github.io/posts/test1/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
