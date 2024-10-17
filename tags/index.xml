@@ -6,20 +6,27 @@
     <description>Recent content in Tags on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Oct 2024 23:13:44 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 22:44:26 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tag1</title>
-      <link>http://localhost:1313/tags/tag1/</link>
-      <pubDate>Sun, 13 Oct 2024 23:13:44 -0500</pubDate>
-      <guid>http://localhost:1313/tags/tag1/</guid>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
+      <pubDate>Wed, 16 Oct 2024 22:44:26 -0500</pubDate>
+      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag2</title>
-      <link>http://localhost:1313/tags/tag2/</link>
-      <pubDate>Sun, 13 Oct 2024 23:13:44 -0500</pubDate>
-      <guid>http://localhost:1313/tags/tag2/</guid>
+      <title>WebGL</title>
+      <link>http://localhost:1313/tags/webgl/</link>
+      <pubDate>Wed, 16 Oct 2024 22:44:26 -0500</pubDate>
+      <guid>http://localhost:1313/tags/webgl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CUDA</title>
+      <link>http://localhost:1313/tags/cuda/</link>
+      <pubDate>Sun, 10 Sep 2023 23:13:44 -0500</pubDate>
+      <guid>http://localhost:1313/tags/cuda/</guid>
       <description></description>
     </item>
   </channel>
