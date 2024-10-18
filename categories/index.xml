@@ -6,27 +6,27 @@
     <description>Recent content in Categories on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2024 22:44:26 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 22:09:40 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Procedural</title>
       <link>http://localhost:1313/categories/procedural/</link>
-      <pubDate>Wed, 16 Oct 2024 22:44:26 -0500</pubDate>
+      <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
       <guid>http://localhost:1313/categories/procedural/</guid>
       <description></description>
     </item>
     <item>
-      <title>Compute</title>
-      <link>http://localhost:1313/categories/compute/</link>
-      <pubDate>Sun, 10 Sep 2023 23:13:44 -0500</pubDate>
-      <guid>http://localhost:1313/categories/compute/</guid>
+      <title>Themed</title>
+      <link>http://localhost:1313/categories/themed/</link>
+      <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
+      <guid>http://localhost:1313/categories/themed/</guid>
       <description></description>
     </item>
     <item>
-      <title>GPU</title>
-      <link>http://localhost:1313/categories/gpu/</link>
+      <title>Graphics/Rendering</title>
+      <link>http://localhost:1313/categories/graphics/rendering/</link>
       <pubDate>Sun, 10 Sep 2023 23:13:44 -0500</pubDate>
-      <guid>http://localhost:1313/categories/gpu/</guid>
+      <guid>http://localhost:1313/categories/graphics/rendering/</guid>
       <description></description>
     </item>
   </channel>

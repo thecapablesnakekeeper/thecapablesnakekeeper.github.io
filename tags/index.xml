@@ -6,19 +6,19 @@
     <description>Recent content in Tags on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2024 22:44:26 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 22:09:40 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C&#43;&#43;</title>
       <link>http://localhost:1313/tags/c&#43;&#43;/</link>
-      <pubDate>Wed, 16 Oct 2024 22:44:26 -0500</pubDate>
+      <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
       <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     <item>
       <title>WebGL</title>
       <link>http://localhost:1313/tags/webgl/</link>
-      <pubDate>Wed, 16 Oct 2024 22:44:26 -0500</pubDate>
+      <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
       <guid>http://localhost:1313/tags/webgl/</guid>
       <description></description>
     </item>
@@ -27,6 +27,13 @@
       <link>http://localhost:1313/tags/cuda/</link>
       <pubDate>Sun, 10 Sep 2023 23:13:44 -0500</pubDate>
       <guid>http://localhost:1313/tags/cuda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenGL</title>
+      <link>http://localhost:1313/tags/opengl/</link>
+      <pubDate>Sat, 17 Dec 2022 22:09:40 -0500</pubDate>
+      <guid>http://localhost:1313/tags/opengl/</guid>
       <description></description>
     </item>
   </channel>

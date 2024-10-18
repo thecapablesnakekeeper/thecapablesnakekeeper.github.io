@@ -6,10 +6,10 @@
     <description>Recent content on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2024 22:44:26 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 22:09:40 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ember</title>
+      <title>Hi Ember!</title>
       <link>http://localhost:1313/posts/ember/</link>
       <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
       <guid>http://localhost:1313/posts/ember/</guid>
@@ -21,6 +21,13 @@
       <pubDate>Sun, 10 Sep 2023 23:13:44 -0500</pubDate>
       <guid>http://localhost:1313/posts/cuda-boids/</guid>
       <description>&lt;p&gt;A GPU implementation of Craig Reynolds&amp;rsquo; model of flocking for boids using C++ and CUDA.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WandaVision themed Minecraft</title>
+      <link>http://localhost:1313/posts/minecraft/</link>
+      <pubDate>Sat, 17 Dec 2022 22:09:40 -0500</pubDate>
+      <guid>http://localhost:1313/posts/minecraft/</guid>
+      <description>&lt;p&gt;Procedurally generated terrian with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
