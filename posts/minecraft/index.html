@@ -226,7 +226,7 @@
   <meta itemprop="description" content="Procedurally generated terrian with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.">
   <meta itemprop="datePublished" content="2022-12-17T22:09:40-05:00">
   <meta itemprop="dateModified" content="2024-10-17T22:09:40-05:00">
-  <meta itemprop="wordCount" content="414">
+  <meta itemprop="wordCount" content="449">
   <meta itemprop="keywords" content="C&#43;&#43;,OpenGL">
 
       <header>
@@ -236,7 +236,7 @@
             Saturday, Dec 17, 2022
           
 
-          | <span>2 minutes read</span>
+          | <span>3 minutes read</span>
 
           
           | <span>Update at
@@ -278,10 +278,10 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: center">
-<img height="160" src="/img/minecraft/chunking_outside_hu15381423918670565612.png" width="300"></th>
-          <th style="text-align: center">
-<img height="148" src="/img/minecraft/chunking_inside_hu2277375738898684200.png" width="300"></th>
+          <th style="text-align: center"><img height="160" src="/img/minecraft/chunking_outside_hu15381423918670565612.png" width="300">
+</th>
+          <th style="text-align: center"><img height="148" src="/img/minecraft/chunking_inside_hu2277375738898684200.png" width="300">
+</th>
       </tr>
   </thead>
   <tbody>
@@ -294,8 +294,8 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: center">
-<img height="903" src="/img/minecraft/chunking_hu4684171887138908825.gif" width="1562"></th>
+          <th style="text-align: center"><img height="903" src="/img/minecraft/chunking_hu4684171887138908825.gif" width="1562">
+</th>
       </tr>
   </thead>
   <tbody>
@@ -314,9 +314,57 @@
 <li>Any other post-processing like under-water or under-lava effects are applied on top of the final composition and rendered to the screen in addition to drawing the actual TV-static-like Hex.</li>
 </ol>
 <p>Here is a flow diagram that summarizes the approach described above:
-
-<img height="4042" src="/img/minecraft/render_passes_hu12393359804139898586.png" width="3284"></p>
+<img height="4042" src="/img/minecraft/render_passes_hu12393359804139898586.png" width="3284">
+</p>
 <h2 id="3-timeline-shaders">3. Timeline Shaders</h2>
+<h3 id="60s-timeline">60’s Timeline</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">
+
+<video controls src = "/img/minecraft/timeline_greyscale.mp4"></video>
+</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">A simple fragment shader that applies a greyscale overlay.</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="80s-timeline">80’s Timeline</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">
+
+<video controls src = "/img/minecraft/timeline_toon.mp4"></video>
+</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">A fragment shader that applies Toon Shading.</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="dystopian-current-timeline">Dystopian (Current) Timeline</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">
+
+<video controls src = "/img/minecraft/timeline_dyst.mp4"></video>
+</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">Vertex shader for the terrain jittering effect, fragment shader for Chromatic Aberration.</td>
+      </tr>
+  </tbody>
+</table>
 
       
     </article>
