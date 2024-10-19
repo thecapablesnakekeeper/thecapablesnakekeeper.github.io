@@ -277,7 +277,8 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: center"><img height="903" src="/img/minecraft/chunking_hu4684171887138908825.gif" width="1562">
+          <th style="text-align: center">
+<img src = "/img/minecraft/chunking.gif">
 </th>
       </tr>
   </thead>
@@ -297,7 +298,8 @@
 <li>Any other post-processing like under-water or under-lava effects are applied on top of the final composition and rendered to the screen in addition to drawing the actual TV-static-like Hex.</li>
 </ol>
 <p>Here is a flow diagram that summarizes the approach described above:
-<img height="4042" src="/img/minecraft/render_passes_hu12393359804139898586.png" width="3284">
+
+<img src = "/img/minecraft/render_passes.png">
 </p>
 <h2 id="3-timeline-shaders">3. Timeline Shaders</h2>
 <h3 id="60s-timeline">60’s Timeline</h3>
@@ -350,23 +352,27 @@
 </table>
 <h2 id="4-sdf-hex">4. SDF Hex</h2>
 <p>The Hex is a signed distance function that spans a certain radius around the player when the H key is pressed. It starts growing around the player and continues to gradually grow till a configured threshold is reached. A TV-static-like red tinted noise function is used to render the vertical terrain-spanning hex walls. All timeline-based effects are restricted to the Hex bounds, even if they cut across cubes.</p>
-<p>Casting Hex by pressing the H key: <img height="240" src="/img/minecraft/hex_2_hu3482719557920686256.gif" width="426">
+<p>Casting Hex by pressing the H key: 
+<img src = "/img/minecraft/hex_2.gif">
 </p>
-<p>Vertical Terrain-Spanning TV Static-like Hex: <img height="240" src="/img/minecraft/hex_1_hu8884080429692857596.gif" width="426">
+<p>Vertical Terrain-Spanning TV Static-like Hex: 
+<img src = "/img/minecraft/hex_1.gif">
 </p>
-<p>Timeline effects restricted to Hex bounds: <img height="240" src="/img/minecraft/hex_3_hu461773812073366822.gif" width="426">
+<p>Timeline effects restricted to Hex bounds: 
+<img src = "/img/minecraft/hex_3.gif">
 </p>
 <h2 id="5-noise-based-overlays">5. Noise-based Overlays</h2>
 <p>I was also responsible for writing post-processing overlayes when the player is underwater or under lava.
-Perlin-interbed time varying FBM for underwater effect: <img height="240" src="/img/minecraft/water_hu17492348554386347188.gif" width="426">
+Perlin-interbed time varying FBM for underwater effect: 
+<img src = "/img/minecraft/water.gif">
 
-Perlin-based time varying under-lava effect: <img height="240" src="/img/minecraft/lava_hu5361439373452842982.gif" width="426">
+Perlin-based time varying under-lava effect: 
+<img src = "/img/minecraft/lava.gif">
 </p>
 <h2 id="6-procedural-cave-system">6. Procedural Cave System</h2>
 <p>used 3D Perlin Noise to place the blocks for caves under the terrain. I scale it appropriately so that Perlin gives nice wide openings to allow player movement.
 
-
-<video controls src = "/img/minecraft/caves.mp4"></video>
+<img src = "/img/minecraft/caves.gif">
 </p>
 
       
