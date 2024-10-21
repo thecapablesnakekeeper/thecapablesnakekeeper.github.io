@@ -237,7 +237,7 @@
   <meta itemprop="description" content="Procedurally generated Minecrat terrain with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.">
   <meta itemprop="datePublished" content="2022-12-17T22:09:40-05:00">
   <meta itemprop="dateModified" content="2024-10-17T22:09:40-05:00">
-  <meta itemprop="wordCount" content="630">
+  <meta itemprop="wordCount" content="695">
   <meta itemprop="keywords" content="C&#43;&#43;,OpenGL">
 
       <header>
@@ -267,6 +267,11 @@
 <li><a href="#5-noise-based-overlays">5. Noise-based Overlays</a></li>
 <li><a href="#6-procedural-cave-system">6. Procedural Cave System</a></li>
 </ul>
+<p>As a quick summary, pressing H casts the ‘Hex’ – a hexagonal structure that grows around the player up till a certain radius. There are 3 different timelines – the 60’s greyscale timeline, the 80’s toon-shaded timeline, and the current unstable timeline. Pressing H repeatedly cycles through these 3 timelines. The timeline effects are contained within the hex boundaries.
+Here is our final submission video:
+<a href="https://www.youtube.com/watch?v=Ma94eS7i2eY">
+<img src = "/img/minecraft/yt_link.png">
+</a></p>
 <h2 id="1-efficient-terrain-rendering">1. Efficient Terrain Rendering</h2>
 <p>As we know, all assets in Minecraft are rendered as cubes. The initial implementation of our project used instanced rendering to place each cube at its respective coordinates independently. But this results in an overdraw because the faces getting drawn between two consecutive cubes are not visible to the player. Hence, I implemented a better rendering process that checks for solid cube neighbors for each cube and decides which faces to draw. This makes the solid terrain look hollow if viewed from the inside, as shown in the pictures.</p>
 <table>
