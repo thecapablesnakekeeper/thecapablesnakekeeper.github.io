@@ -6,7 +6,7 @@
     <description>Recent content in Posts on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2024 23:19:49 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 23:30:10 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Meshing Around&#34;</title>
@@ -21,6 +21,13 @@
       <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
       <guid>http://localhost:1313/posts/algebrave/</guid>
       <description>&lt;p&gt;Audioreactive &amp;amp; Interactive Graphics experience for Kinect - play any song from Spotify, and see the background and your silhoutte dance to the beats of the music of your choice!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vulkan Grass Rendering</title>
+      <link>http://localhost:1313/posts/vulkan-grass/</link>
+      <pubDate>Tue, 21 Nov 2023 23:30:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/vulkan-grass/</guid>
+      <description>&lt;p&gt;Generating reactive foliage (grass blades) using Tessellation &amp;amp; Compute Shaders in Vulkan with dynamic LODs and Frustum, Distance, View Culling.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hi Ember!</title>
