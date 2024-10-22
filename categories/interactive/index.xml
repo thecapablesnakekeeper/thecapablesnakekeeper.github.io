@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive on The Capable Snakekeeper and all his wrongdoings</title>
+    <link>http://localhost:1313/categories/interactive/</link>
+    <description>Recent content in Interactive on The Capable Snakekeeper and all his wrongdoings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2024 23:19:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/interactive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AlgebRave📀</title>
+      <link>http://localhost:1313/posts/algebrave/</link>
+      <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/algebrave/</guid>
+      <description>&lt;p&gt;Audioreactive &amp;amp; Interactive Graphics experience for Kinect - play any song from Spotify, and see the background and your silhoutte dance to the beats of the music of your choice!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
     <description>Recent content in Categories on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2024 23:03:50 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 23:19:49 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graphics/Rendering</title>
@@ -23,16 +23,23 @@
       <description></description>
     </item>
     <item>
+      <title>Interactive</title>
+      <link>http://localhost:1313/categories/interactive/</link>
+      <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
+      <guid>http://localhost:1313/categories/interactive/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Procedural</title>
       <link>http://localhost:1313/categories/procedural/</link>
-      <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
+      <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
       <guid>http://localhost:1313/categories/procedural/</guid>
       <description></description>
     </item>
     <item>
       <title>Themed</title>
       <link>http://localhost:1313/categories/themed/</link>
-      <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
+      <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
       <guid>http://localhost:1313/categories/themed/</guid>
       <description></description>
     </item>
