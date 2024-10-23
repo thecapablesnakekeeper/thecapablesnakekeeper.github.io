@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/meshing-around/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/meshing-around/</guid>
-      <description>&lt;p&gt;Dynamic Adaptive Tessellation using D3D12 Mesh Shaders&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dynamic Adaptive Tessellation using D3D12 Mesh &amp;amp; Amplification Shaders.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vulkan Grass Rendering</title>

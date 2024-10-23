@@ -6,27 +6,34 @@
     <description>Recent content in Categories on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2024 23:30:10 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 00:06:48 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graphics/Rendering</title>
       <link>http://localhost:1313/categories/graphics/rendering/</link>
-      <pubDate>Tue, 21 Nov 2023 23:30:10 -0500</pubDate>
+      <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
       <guid>http://localhost:1313/categories/graphics/rendering/</guid>
       <description></description>
     </item>
     <item>
       <title>Research Impl</title>
       <link>http://localhost:1313/categories/research-impl/</link>
-      <pubDate>Tue, 21 Nov 2023 23:30:10 -0500</pubDate>
+      <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
       <guid>http://localhost:1313/categories/research-impl/</guid>
       <description></description>
     </item>
     <item>
       <title>Interactive</title>
       <link>http://localhost:1313/categories/interactive/</link>
-      <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
+      <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
       <guid>http://localhost:1313/categories/interactive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tooling</title>
+      <link>http://localhost:1313/categories/tooling/</link>
+      <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
+      <guid>http://localhost:1313/categories/tooling/</guid>
       <description></description>
     </item>
     <item>
