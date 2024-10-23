@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/vulkan-grass/</link>
       <pubDate>Tue, 21 Nov 2023 23:30:10 -0500</pubDate>
       <guid>http://localhost:1313/posts/vulkan-grass/</guid>
-      <description>&lt;p&gt;Generating reactive foliage (grass blades) using Tessellation &amp;amp; Compute Shaders in Vulkan with dynamic LODs and Frustum, Distance, View Culling.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Reactive foliage (grass blades) using Tessellation &amp;amp; Compute Shaders in Vulkan with dynamic LODs and Frustum, Distance, View Culling.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SDF-based PBR Pokeballs</title>
