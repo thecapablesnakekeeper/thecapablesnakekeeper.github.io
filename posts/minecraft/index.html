@@ -231,7 +231,7 @@
   <div>
   
     
-    <article class="mx-auto prose prose-quoteless dark:prose-invert" id="dream-single-post-main" itemscope itemtype="http://schema.org/Article">
+    <article class="mx-auto prose prose-quoteless" id="dream-single-post-main" itemscope itemtype="http://schema.org/Article">
       
   <meta itemprop="name" content="WandaVision themed Minecraft">
   <meta itemprop="description" content="Procedurally generated Minecrat terrain with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.">
@@ -269,17 +269,16 @@
 </ul>
 <p>As a quick summary, pressing H casts the ‘Hex’ – a hexagonal structure that grows around the player up till a certain radius. There are 3 different timelines – the 60’s greyscale timeline, the 80’s toon-shaded timeline, and the current unstable timeline. Pressing H repeatedly cycles through these 3 timelines. The timeline effects are contained within the hex boundaries.
 Here is our final submission video:
-<a href="https://www.youtube.com/watch?v=Ma94eS7i2eY">
-<img src = "/img/minecraft/yt_link.png">
+<a href="https://www.youtube.com/watch?v=Ma94eS7i2eY"><img height="338" src="/img/minecraft/yt_link_hu9067523769540671512.png" width="600">
 </a></p>
 <h2 id="1-efficient-terrain-rendering">1. Efficient Terrain Rendering</h2>
 <p>As we know, all assets in Minecraft are rendered as cubes. The initial implementation of our project used instanced rendering to place each cube at its respective coordinates independently. But this results in an overdraw because the faces getting drawn between two consecutive cubes are not visible to the player. Hence, I implemented a better rendering process that checks for solid cube neighbors for each cube and decides which faces to draw. This makes the solid terrain look hollow if viewed from the inside, as shown in the pictures.</p>
 <table>
   <thead>
       <tr>
-          <th style="text-align: center"><img height="160" src="/img/minecraft/chunking_outside_hu15381423918670565612.png" width="300">
+          <th style="text-align: center"><img height="200" src="/img/minecraft/chunking_outside_hu1817217842055828467.png" width="400">
 </th>
-          <th style="text-align: center"><img height="148" src="/img/minecraft/chunking_inside_hu2277375738898684200.png" width="300">
+          <th style="text-align: center"><img height="200" src="/img/minecraft/chunking_inside_hu9121757584811269374.png" width="400">
 </th>
       </tr>
   </thead>
@@ -293,8 +292,7 @@ Here is our final submission video:
 <table>
   <thead>
       <tr>
-          <th style="text-align: center">
-<img src = "/img/minecraft/chunking.gif">
+          <th style="text-align: center"><img height="347" src="/img/minecraft/chunking_hu4252580721770358666.gif" width="600">
 </th>
       </tr>
   </thead>
@@ -314,8 +312,7 @@ Here is our final submission video:
 <li>Any other post-processing like under-water or under-lava effects are applied on top of the final composition and rendered to the screen in addition to drawing the actual TV-static-like Hex.</li>
 </ol>
 <p>Here is a flow diagram that summarizes the approach described above:
-
-<img src = "/img/minecraft/render_passes.png">
+<img height="1108" src="/img/minecraft/render_passes_hu16472858835378720744.png" width="900">
 </p>
 <h2 id="3-timeline-shaders">3. Timeline Shaders</h2>
 <h3 id="60s-timeline">60’s Timeline</h3>
@@ -324,7 +321,7 @@ Here is our final submission video:
       <tr>
           <th style="text-align: center">
 
-<video controls src = "/img/minecraft/timeline_greyscale.mp4"></video>
+<video controls src = "/img/minecraft/timeline_greyscale.mp4" width= "700"></video>
 </th>
       </tr>
   </thead>
@@ -340,7 +337,7 @@ Here is our final submission video:
       <tr>
           <th style="text-align: center">
 
-<video controls src = "/img/minecraft/timeline_toon.mp4"></video>
+<video controls src = "/img/minecraft/timeline_toon.mp4" width= "700"></video>
 </th>
       </tr>
   </thead>
@@ -356,7 +353,7 @@ Here is our final submission video:
       <tr>
           <th style="text-align: center">
 
-<video controls src = "/img/minecraft/timeline_dyst.mp4"></video>
+<video controls src = "/img/minecraft/timeline_dyst.mp4" width= "700"></video>
 </th>
       </tr>
   </thead>
@@ -404,7 +401,7 @@ Perlin-based time varying under-lava effect:
             
               <div>
   
-  <p>© 2024 The Capable Snakekeeper and all his wrongdoings</p>
+  <p>© 2025 The Capable Snakekeeper and all his wrongdoings</p>
   
 
     

@@ -796,7 +796,7 @@ html {
 
 .prose {
   color: var(--tw-prose-body);
-  max-width: 65ch;
+  max-width: 125ch;
 }
 
 .prose :where(p):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
@@ -1043,12 +1043,11 @@ html {
 }
 
 .prose :where(table):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
-  width: 100%;
+  width: auto;
   table-layout: auto;
   text-align: start;
-  margin-top: 2em;
-  margin-bottom: 2em;
-  font-size: 0.875em;
+  margin: 20px auto;
+  font-size: 1em;
   line-height: 1.7142857;
 }
 
@@ -1064,6 +1063,7 @@ html {
   padding-inline-end: 0.5714286em;
   padding-bottom: 0.5714286em;
   padding-inline-start: 0.5714286em;
+  border: .1rem solid var(--tw-prose-td-borders);
 }
 
 .prose :where(tbody tr):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
@@ -1073,10 +1073,12 @@ html {
 
 .prose :where(tbody tr:last-child):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   border-bottom-width: 0;
+  background-color: var(--tw-prose-background);
 }
 
 .prose :where(tbody td):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   vertical-align: baseline;
+  border: .1rem solid var(--tw-prose-td-borders);
 }
 
 .prose :where(tfoot):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
@@ -1102,6 +1104,7 @@ html {
 
 .prose {
   --tw-prose-body: #374151;
+  --tw-prose-background: #eff3fa;
   --tw-prose-headings: #111827;
   --tw-prose-lead: #4b5563;
   --tw-prose-links: #111827;
