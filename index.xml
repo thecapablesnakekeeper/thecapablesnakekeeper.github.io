@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Capable Snakekeeper and all his wrongdoings</title>
-    <link>http://localhost:1313/</link>
+    <link>https://Saksham03.github.io/</link>
     <description>Recent content on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Oct 2024 00:06:48 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Saksham03.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Meshing Around&#34;</title>
-      <link>http://localhost:1313/posts/meshing-around/</link>
+      <link>https://Saksham03.github.io/posts/meshing-around/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meshing-around/</guid>
+      <guid>https://Saksham03.github.io/posts/meshing-around/</guid>
       <description>&lt;p&gt;Dynamic Adaptive Tessellation using D3D12 Mesh &amp;amp; Amplification Shaders.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Realtime Terrain Erosion Tool</title>
-      <link>http://localhost:1313/posts/erosion/</link>
+      <link>https://Saksham03.github.io/posts/erosion/</link>
       <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
-      <guid>http://localhost:1313/posts/erosion/</guid>
+      <guid>https://Saksham03.github.io/posts/erosion/</guid>
       <description>&lt;p&gt;Realtime physically accurate erosion simulation for interactive terrain authoring using compute shaders in WebGPU.&lt;/p&gt;</description>
     </item>
     <item>
       <title>📀AlgebRave📀</title>
-      <link>http://localhost:1313/posts/algebrave/</link>
+      <link>https://Saksham03.github.io/posts/algebrave/</link>
       <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
-      <guid>http://localhost:1313/posts/algebrave/</guid>
+      <guid>https://Saksham03.github.io/posts/algebrave/</guid>
       <description>&lt;p&gt;Audioreactive &amp;amp; Interactive Graphics experience for Kinect - play any song from Spotify, and see the background and your silhoutte dance to the beats of the music of your choice!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vulkan Grass Rendering</title>
-      <link>http://localhost:1313/posts/vulkan-grass/</link>
+      <link>https://Saksham03.github.io/posts/vulkan-grass/</link>
       <pubDate>Tue, 21 Nov 2023 23:30:10 -0500</pubDate>
-      <guid>http://localhost:1313/posts/vulkan-grass/</guid>
+      <guid>https://Saksham03.github.io/posts/vulkan-grass/</guid>
       <description>&lt;p&gt;Reactive foliage (grass blades) using Tessellation &amp;amp; Compute Shaders in Vulkan with dynamic LODs and Frustum, Distance, View Culling.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hi Ember!</title>
-      <link>http://localhost:1313/posts/ember/</link>
+      <link>https://Saksham03.github.io/posts/ember/</link>
       <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
-      <guid>http://localhost:1313/posts/ember/</guid>
+      <guid>https://Saksham03.github.io/posts/ember/</guid>
       <description>&lt;p&gt;Ember from Pixar&amp;rsquo;s Elemental created entirely procedurally! Tons of noise, toolbox functions, and basic shader art.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CUDA Boids</title>
-      <link>http://localhost:1313/posts/cuda-boids/</link>
+      <link>https://Saksham03.github.io/posts/cuda-boids/</link>
       <pubDate>Sun, 10 Sep 2023 23:13:44 -0500</pubDate>
-      <guid>http://localhost:1313/posts/cuda-boids/</guid>
+      <guid>https://Saksham03.github.io/posts/cuda-boids/</guid>
       <description>&lt;p&gt;A GPU implementation of Craig Reynolds&amp;rsquo; model of flocking for boids using C++ and CUDA.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SDF-based PBR Pokeballs</title>
-      <link>http://localhost:1313/posts/pokeballs/</link>
+      <link>https://Saksham03.github.io/posts/pokeballs/</link>
       <pubDate>Fri, 21 Apr 2023 23:03:50 -0500</pubDate>
-      <guid>http://localhost:1313/posts/pokeballs/</guid>
+      <guid>https://Saksham03.github.io/posts/pokeballs/</guid>
       <description>&lt;p&gt;Pokeballs made using Signed Distance Fields, implementing realtime PBR, Environment Mapping, Raymarching &amp;amp; Subsurface Scattering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WandaVision themed Minecraft</title>
-      <link>http://localhost:1313/posts/minecraft/</link>
+      <link>https://Saksham03.github.io/posts/minecraft/</link>
       <pubDate>Sat, 17 Dec 2022 22:09:40 -0500</pubDate>
-      <guid>http://localhost:1313/posts/minecraft/</guid>
+      <guid>https://Saksham03.github.io/posts/minecraft/</guid>
       <description>&lt;p&gt;Procedurally generated Minecrat terrain with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CUDA on The Capable Snakekeeper and all his wrongdoings</title>
-    <link>http://localhost:1313/tags/cuda/</link>
+    <link>https://Saksham03.github.io/tags/cuda/</link>
     <description>Recent content in CUDA on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Oct 2024 23:13:44 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cuda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Saksham03.github.io/tags/cuda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CUDA Boids</title>
-      <link>http://localhost:1313/posts/cuda-boids/</link>
+      <link>https://Saksham03.github.io/posts/cuda-boids/</link>
       <pubDate>Sun, 10 Sep 2023 23:13:44 -0500</pubDate>
-      <guid>http://localhost:1313/posts/cuda-boids/</guid>
+      <guid>https://Saksham03.github.io/posts/cuda-boids/</guid>
       <description>&lt;p&gt;A GPU implementation of Craig Reynolds&amp;rsquo; model of flocking for boids using C++ and CUDA.&lt;/p&gt;</description>
     </item>
   </channel>

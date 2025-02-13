@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TypeScript on The Capable Snakekeeper and all his wrongdoings</title>
-    <link>http://localhost:1313/tags/typescript/</link>
+    <link>https://Saksham03.github.io/tags/typescript/</link>
     <description>Recent content in TypeScript on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Oct 2024 00:06:48 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Saksham03.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Realtime Terrain Erosion Tool</title>
-      <link>http://localhost:1313/posts/erosion/</link>
+      <link>https://Saksham03.github.io/posts/erosion/</link>
       <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
-      <guid>http://localhost:1313/posts/erosion/</guid>
+      <guid>https://Saksham03.github.io/posts/erosion/</guid>
       <description>&lt;p&gt;Realtime physically accurate erosion simulation for interactive terrain authoring using compute shaders in WebGPU.&lt;/p&gt;</description>
     </item>
   </channel>
