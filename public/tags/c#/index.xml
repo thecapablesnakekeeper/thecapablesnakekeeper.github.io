@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on The Capable Snakekeeper and all his wrongdoings</title>
+    <link>http://localhost:1313/tags/c%23/</link>
+    <description>Recent content in C# on The Capable Snakekeeper and all his wrongdoings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2023 23:04:05 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stylization with Shader Graphs</title>
+      <link>http://localhost:1313/posts/spider-punk/</link>
+      <pubDate>Mon, 13 Nov 2023 23:04:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/spider-punk/</guid>
+      <description>&lt;p&gt;Stylized realtime render of Spider Punk made using Unity&amp;rsquo;s shader graphs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

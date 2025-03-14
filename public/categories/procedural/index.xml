@@ -16,6 +16,13 @@
       <description>&lt;p&gt;Audioreactive &amp;amp; Interactive Graphics experience for Kinect - play any song from Spotify, and see the background and your silhoutte dance to the beats of the music of your choice!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Stylization with Shader Graphs</title>
+      <link>http://localhost:1313/posts/spider-punk/</link>
+      <pubDate>Mon, 13 Nov 2023 23:04:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/spider-punk/</guid>
+      <description>&lt;p&gt;Stylized realtime render of Spider Punk made using Unity&amp;rsquo;s shader graphs.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Hi Ember!</title>
       <link>http://localhost:1313/posts/ember/</link>
       <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
