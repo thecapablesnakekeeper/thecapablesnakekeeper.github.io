@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SDF-based PBR Pokeballs | The Capable Snakekeeper and all his wrongdoings</title>
+
+    
+
+<link rel="canonical" href="https://Saksham03.github.io/posts/pokeballs/" />
+
+
+
+<meta name="author" content="" />
+<meta name="description" content="Pokeballs made using Signed Distance Fields, implementing realtime PBR, Environment Mapping, Raymarching &amp; Subsurface Scattering.
+" />
+
+
+<meta name="keywords" content="C&#43;&#43;,Qt,OpenGL">
+
+
+
+<meta name="generator" content="Hugo 0.134.2">
+
+
+<meta property="og:url" content="https://Saksham03.github.io/posts/pokeballs/">
+  <meta property="og:site_name" content="The Capable Snakekeeper and all his wrongdoings">
+  <meta property="og:title" content="SDF-based PBR Pokeballs">
+  <meta property="og:description" content="Pokeballs made using Signed Distance Fields, implementing realtime PBR, Environment Mapping, Raymarching &amp; Subsurface Scattering.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-04-21T23:03:50-05:00">
+    <meta property="article:modified_time" content="2024-10-21T23:03:50-05:00">
+    <meta property="article:tag" content="C&#43;&#43;">
+    <meta property="article:tag" content="Qt">
+    <meta property="article:tag" content="OpenGL">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="SDF-based PBR Pokeballs">
+  <meta name="twitter:description" content="Pokeballs made using Signed Distance Fields, implementing realtime PBR, Environment Mapping, Raymarching &amp; Subsurface Scattering.">
+
+
+
+
+<link rel="stylesheet" href="/css/output.css" />
+
+
+
+
+    
+
+
+<style>
+  pre {
+    padding: 1em;
+    overflow: auto;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav class="mt-4 lg:mt-8 py-4">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:online" @click="flip = !flip" title="Flip it!">
+        <div class="h-10 rounded">
+          <img src="/img/misc/website_logo.jpg" alt="Saksham Nagpal" />
+        </div>
+      </div>
+
+      
+      <div>
+        
+        <a href="https://Saksham03.github.io/" class="text-lg font-semibold cursor-pointer">
+          Saksham Nagpal
+        </a>
+        
+        
+        <div class="text-base-content/60 text-sm">The Capable Snakekeeper</div>
+        
+      </div>
+      
+    </section>
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-md">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="Archives">
+    <ion-icon name="archive"></ion-icon>
+    Archives
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
+  </a>
+</li>
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+
+      
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/posts" title="Archives">
+  <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
+</a>
+
+
+      
+
+      
+
+      
+    </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+<div class="mt-4 px-4">
+  
+  <div>
+  
+    
+    <article class="mx-auto prose prose-quoteless" id="dream-single-post-main" itemscope itemtype="http://schema.org/Article">
+      
+  <meta itemprop="name" content="SDF-based PBR Pokeballs">
+  <meta itemprop="description" content="Pokeballs made using Signed Distance Fields, implementing realtime PBR, Environment Mapping, Raymarching &amp; Subsurface Scattering.">
+  <meta itemprop="datePublished" content="2023-04-21T23:03:50-05:00">
+  <meta itemprop="dateModified" content="2024-10-21T23:03:50-05:00">
+  <meta itemprop="wordCount" content="145">
+  <meta itemprop="keywords" content="C&#43;&#43;,Qt,OpenGL">
+
+      <header>
+        <h1 itemprop="headline">SDF-based PBR Pokeballs</h1>
+        <p class="text-sm">
+          
+            Friday, Apr 21, 2023
+          
+        </p>        
+      </header>
+
+      
+
+      <p>Pokeballs made using Signed Distance Fields, implementing realtime PBR, Environment Mapping, Raymarching &amp; Subsurface Scattering.</p>
+<p>In this C++/OpenGL project, I created Pokeballs using Signed Distance Functions (SDFs) and also implemented the realtime PBR pipeline based on the paper <a href="https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf">Real Shading in Unreal Engine 4</a>. Some basic Qt tooling allows an interactive program like the following:
+
+
+<video controls src = "/img/pokeballs/pbr_demo.mp4"></video>
+</p>
+<h3 id="the-pbr-pipeline-consists-of">The PBR Pipeline consists of:</h3>
+<ol>
+<li>Cook-Torrance Microfacet Specular BRDF:
+<ul>
+<li>GGX/Trowbridge-Reitz Distribution Function</li>
+<li>Schlick Model for Geometric Attenuation</li>
+<li>Schlick’s Approximation for Fresnel</li>
+</ul>
+</li>
+<li>Image-based Lighting
+<ul>
+<li>Environment Map Sampling</li>
+<li>Precomputed Diffuse &amp; Specular Reflections</li>
+<li>Mipmapping to avoid artifacts</li>
+</ul>
+</li>
+</ol>
+<h3 id="the-sdf-implementation-comprises-of">The SDF implementation comprises of:</h3>
+<ol>
+<li>Raymarching</li>
+<li>3 different SDFs for Normal Ball, Great Ball, Ultra Ball</li>
+<li>Normal computation for SDFs</li>
+<li>Domain Repetition based on <a href="https://iquilezles.org/articles/distfunctions/">this</a> article from Inigo Quilez</li>
+<li>Perlin Noise for adding rotational variation</li>
+</ol>
+<p>Here are some fun renders with different types of Pokeballs, environment maps, and roughness/metallic settings, along with some grid-baed repetition:
+
+<img src = "/img/pokeballs/model1.jpg">
+
+
+<img src = "/img/pokeballs/model2.jpg">
+
+
+<img src = "/img/pokeballs/model3.jpg">
+
+
+<img src = "/img/pokeballs/oprep1.jpg">
+
+
+<img src = "/img/pokeballs/oprep2.jpg">
+</p>
+
+      
+    </article>
+  </div>
+
+  
+</div>
+
+
+            
+            <footer class="flex justify-between items-center gap-2 px-4 py-12">
+            
+              <div>
+  
+  <p>© 2025 The Capable Snakekeeper and all his wrongdoings</p>
+  
+
+    
+  
+</div>
+
+              <div
+  x-data="{ icons: [
+    { name: 'moon', status: 'y' },
+    { name: 'sunny', status: 'n' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center h-[32px] px-2 gap-2 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+            </footer>
+          </div>
+        </div>
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid">
+  
+
+  
+
+  
+</div>
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme =  null 
+  window.darkTheme =  null 
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+  <script src="/js/grid.js"></script>
+
+
+
+
+<script src="/js/main.js"></script>
+
+    
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    <script type="module" src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.js"></script>
+  </body>
+</html>

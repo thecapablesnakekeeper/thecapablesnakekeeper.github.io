@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on The Capable Snakekeeper and all his wrongdoings</title>
+    <link>https://Saksham03.github.io/categories/</link>
+    <description>Recent content in Categories on The Capable Snakekeeper and all his wrongdoings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Oct 2024 00:06:48 -0500</lastBuildDate>
+    <atom:link href="https://Saksham03.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graphics/Rendering</title>
+      <link>https://Saksham03.github.io/categories/graphics/rendering/</link>
+      <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
+      <guid>https://Saksham03.github.io/categories/graphics/rendering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Impl</title>
+      <link>https://Saksham03.github.io/categories/research-impl/</link>
+      <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
+      <guid>https://Saksham03.github.io/categories/research-impl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interactive</title>
+      <link>https://Saksham03.github.io/categories/interactive/</link>
+      <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
+      <guid>https://Saksham03.github.io/categories/interactive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tooling</title>
+      <link>https://Saksham03.github.io/categories/tooling/</link>
+      <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
+      <guid>https://Saksham03.github.io/categories/tooling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Procedural</title>
+      <link>https://Saksham03.github.io/categories/procedural/</link>
+      <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
+      <guid>https://Saksham03.github.io/categories/procedural/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themed</title>
+      <link>https://Saksham03.github.io/categories/themed/</link>
+      <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
+      <guid>https://Saksham03.github.io/categories/themed/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

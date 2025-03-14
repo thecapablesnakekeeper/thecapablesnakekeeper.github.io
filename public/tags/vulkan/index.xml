@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vulkan on The Capable Snakekeeper and all his wrongdoings</title>
+    <link>https://Saksham03.github.io/tags/vulkan/</link>
+    <description>Recent content in Vulkan on The Capable Snakekeeper and all his wrongdoings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2024 23:30:10 -0500</lastBuildDate>
+    <atom:link href="https://Saksham03.github.io/tags/vulkan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vulkan Grass Rendering</title>
+      <link>https://Saksham03.github.io/posts/vulkan-grass/</link>
+      <pubDate>Tue, 21 Nov 2023 23:30:10 -0500</pubDate>
+      <guid>https://Saksham03.github.io/posts/vulkan-grass/</guid>
+      <description>&lt;p&gt;Reactive foliage (grass blades) using Tessellation &amp;amp; Compute Shaders in Vulkan with dynamic LODs and Frustum, Distance, View Culling.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

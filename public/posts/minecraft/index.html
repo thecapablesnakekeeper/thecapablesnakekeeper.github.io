@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WandaVision themed Minecraft | The Capable Snakekeeper and all his wrongdoings</title>
+
+    
+
+<link rel="canonical" href="https://Saksham03.github.io/posts/minecraft/" />
+
+
+
+<meta name="author" content="" />
+<meta name="description" content="Procedurally generated Minecrat terrain with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.
+" />
+
+
+<meta name="keywords" content="C&#43;&#43;,OpenGL">
+
+
+
+<meta name="generator" content="Hugo 0.134.2">
+
+
+<meta property="og:url" content="https://Saksham03.github.io/posts/minecraft/">
+  <meta property="og:site_name" content="The Capable Snakekeeper and all his wrongdoings">
+  <meta property="og:title" content="WandaVision themed Minecraft">
+  <meta property="og:description" content="Procedurally generated Minecrat terrain with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2022-12-17T22:09:40-05:00">
+    <meta property="article:modified_time" content="2024-10-17T22:09:40-05:00">
+    <meta property="article:tag" content="C&#43;&#43;">
+    <meta property="article:tag" content="OpenGL">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="WandaVision themed Minecraft">
+  <meta name="twitter:description" content="Procedurally generated Minecrat terrain with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.">
+
+
+
+
+<link rel="stylesheet" href="/css/output.css" />
+
+
+
+
+    
+
+
+<style>
+  pre {
+    padding: 1em;
+    overflow: auto;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav class="mt-4 lg:mt-8 py-4">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:online" @click="flip = !flip" title="Flip it!">
+        <div class="h-10 rounded">
+          <img src="/img/misc/website_logo.jpg" alt="Saksham Nagpal" />
+        </div>
+      </div>
+
+      
+      <div>
+        
+        <a href="https://Saksham03.github.io/" class="text-lg font-semibold cursor-pointer">
+          Saksham Nagpal
+        </a>
+        
+        
+        <div class="text-base-content/60 text-sm">The Capable Snakekeeper</div>
+        
+      </div>
+      
+    </section>
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-md">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="Archives">
+    <ion-icon name="archive"></ion-icon>
+    Archives
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
+  </a>
+</li>
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+
+      
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/posts" title="Archives">
+  <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
+</a>
+
+
+      
+
+      
+
+      
+    </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+<div class="mt-4 px-4">
+  
+  <div>
+  
+    
+    <article class="mx-auto prose prose-quoteless" id="dream-single-post-main" itemscope itemtype="http://schema.org/Article">
+      
+  <meta itemprop="name" content="WandaVision themed Minecraft">
+  <meta itemprop="description" content="Procedurally generated Minecrat terrain with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.">
+  <meta itemprop="datePublished" content="2022-12-17T22:09:40-05:00">
+  <meta itemprop="dateModified" content="2024-10-17T22:09:40-05:00">
+  <meta itemprop="wordCount" content="695">
+  <meta itemprop="keywords" content="C&#43;&#43;,OpenGL">
+
+      <header>
+        <h1 itemprop="headline">WandaVision themed Minecraft</h1>
+        <p class="text-sm">
+          
+            Saturday, Dec 17, 2022
+          
+        </p>        
+      </header>
+
+      
+
+      <p>Procedurally generated Minecrat terrain with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.</p>
+<p>In the first semester of my Masters, I worked on building a miniature version of Minecraft in a group of 3 for my Interactive Compute Graphics course’s final project. WandaVision is one of my favorite TV shows, and I suggested to my team that we incorporate some elements from the same to make our project fun. I was responsible for the following implementations:</p>
+<ul>
+<li><a href="#1-efficient-terrain-rendering">1. Efficient Terrain Rendering</a></li>
+<li><a href="#2-multiple-render-passes">2. Multiple Render Passes</a></li>
+<li><a href="#3-timeline-shaders">3. Timeline Shaders</a>
+<ul>
+<li><a href="#60s-timeline">60’s Timeline</a></li>
+<li><a href="#80s-timeline">80’s Timeline</a></li>
+<li><a href="#dystopian-current-timeline">Dystopian (Current) Timeline</a></li>
+</ul>
+</li>
+<li><a href="#4-sdf-hex">4. SDF Hex</a></li>
+<li><a href="#5-noise-based-overlays">5. Noise-based Overlays</a></li>
+<li><a href="#6-procedural-cave-system">6. Procedural Cave System</a></li>
+</ul>
+<p>As a quick summary, pressing H casts the ‘Hex’ – a hexagonal structure that grows around the player up till a certain radius. There are 3 different timelines – the 60’s greyscale timeline, the 80’s toon-shaded timeline, and the current unstable timeline. Pressing H repeatedly cycles through these 3 timelines. The timeline effects are contained within the hex boundaries.
+Here is our final submission video:
+<a href="https://www.youtube.com/watch?v=Ma94eS7i2eY"><img height="338" src="/img/minecraft/yt_link_hu9067523769540671512.png" width="600">
+</a></p>
+<h2 id="1-efficient-terrain-rendering">1. Efficient Terrain Rendering</h2>
+<p>As we know, all assets in Minecraft are rendered as cubes. The initial implementation of our project used instanced rendering to place each cube at its respective coordinates independently. But this results in an overdraw because the faces getting drawn between two consecutive cubes are not visible to the player. Hence, I implemented a better rendering process that checks for solid cube neighbors for each cube and decides which faces to draw. This makes the solid terrain look hollow if viewed from the inside, as shown in the pictures.</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center"><img height="200" src="/img/minecraft/chunking_outside_hu1817217842055828467.png" width="400">
+</th>
+          <th style="text-align: center"><img height="200" src="/img/minecraft/chunking_inside_hu9121757584811269374.png" width="400">
+</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center"><em>Terrain as visible to the player</em></td>
+          <td style="text-align: center"><em>Same &lsquo;hollowed&rsquo; terrain when viewed from the inside</em></td>
+      </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center"><img height="347" src="/img/minecraft/chunking_hu4252580721770358666.gif" width="600">
+</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center"><em>Small choppy demo of what the terrain looks like from the inside</em></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="2-multiple-render-passes">2. Multiple Render Passes</h2>
+<p>In order to be able to apply different timeline-based shaders inside the Hex as well as different post-processing overlays like when under water or lava, I needed to use multiple frame buffers to be able to store the result from a render pass somewhere and to use it for compositing or as-is in the subsequent passes. A brief summary of my approach is as follows:</p>
+<ol>
+<li>First, I draw the entire terrain as-is and store it in a frame buffer.</li>
+<li>Next, I apply the timeline-based effect on this terrain and store the result in a second frame buffer.</li>
+<li>I use a <strong>Signed Distance Field (SDF)</strong> to calculate the Hex boundaries when the player hits the key H, and store it as a black-and-white image in a frame buffer. Black areas represent the terrain that lies inside the hex, while the white areas are the parts lying outside.</li>
+<li>I then use the black-and-white hex bounds frame buffer as a <strong>stencil</strong> to composite the normally drawn terrain with the timeline-based post-process overlay.</li>
+<li>Any other post-processing like under-water or under-lava effects are applied on top of the final composition and rendered to the screen in addition to drawing the actual TV-static-like Hex.</li>
+</ol>
+<p>Here is a flow diagram that summarizes the approach described above:
+<img height="1108" src="/img/minecraft/render_passes_hu16472858835378720744.png" width="900">
+</p>
+<h2 id="3-timeline-shaders">3. Timeline Shaders</h2>
+<h3 id="60s-timeline">60’s Timeline</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">
+
+<video controls src = "/img/minecraft/timeline_greyscale.mp4" width= "700"></video>
+</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">A simple fragment shader that applies a greyscale overlay.</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="80s-timeline">80’s Timeline</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">
+
+<video controls src = "/img/minecraft/timeline_toon.mp4" width= "700"></video>
+</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">A fragment shader that applies Toon Shading.</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="dystopian-current-timeline">Dystopian (Current) Timeline</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">
+
+<video controls src = "/img/minecraft/timeline_dyst.mp4" width= "700"></video>
+</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">Vertex shader for the terrain jittering effect, fragment shader for Chromatic Aberration.</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="4-sdf-hex">4. SDF Hex</h2>
+<p>The Hex is a signed distance function that spans a certain radius around the player when the H key is pressed. It starts growing around the player and continues to gradually grow till a configured threshold is reached. A TV-static-like red tinted noise function is used to render the vertical terrain-spanning hex walls. All timeline-based effects are restricted to the Hex bounds, even if they cut across cubes.</p>
+<p>Casting Hex by pressing the H key: 
+<img src = "/img/minecraft/hex_2.gif">
+</p>
+<p>Vertical Terrain-Spanning TV Static-like Hex: 
+<img src = "/img/minecraft/hex_1.gif">
+</p>
+<p>Timeline effects restricted to Hex bounds: 
+<img src = "/img/minecraft/hex_3.gif">
+</p>
+<h2 id="5-noise-based-overlays">5. Noise-based Overlays</h2>
+<p>I was also responsible for writing post-processing overlayes when the player is underwater or under lava.
+Perlin-interbed time varying FBM for underwater effect: 
+<img src = "/img/minecraft/water.gif">
+
+Perlin-based time varying under-lava effect: 
+<img src = "/img/minecraft/lava.gif">
+</p>
+<h2 id="6-procedural-cave-system">6. Procedural Cave System</h2>
+<p>used 3D Perlin Noise to place the blocks for caves under the terrain. I scale it appropriately so that Perlin gives nice wide openings to allow player movement.
+
+<img src = "/img/minecraft/caves.gif">
+</p>
+
+      
+    </article>
+  </div>
+
+  
+</div>
+
+
+            
+            <footer class="flex justify-between items-center gap-2 px-4 py-12">
+            
+              <div>
+  
+  <p>© 2025 The Capable Snakekeeper and all his wrongdoings</p>
+  
+
+    
+  
+</div>
+
+              <div
+  x-data="{ icons: [
+    { name: 'moon', status: 'y' },
+    { name: 'sunny', status: 'n' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center h-[32px] px-2 gap-2 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+            </footer>
+          </div>
+        </div>
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid">
+  
+
+  
+
+  
+</div>
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme =  null 
+  window.darkTheme =  null 
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+  <script src="/js/grid.js"></script>
+
+
+
+
+<script src="/js/main.js"></script>
+
+    
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    <script type="module" src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.js"></script>
+  </body>
+</html>
