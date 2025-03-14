@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Procedural on The Capable Snakekeeper and all his wrongdoings</title>
-    <link>https://Saksham03.github.io/categories/procedural/</link>
+    <link>http://localhost:1313/categories/procedural/</link>
     <description>Recent content in Procedural on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Oct 2024 23:19:49 -0500</lastBuildDate>
-    <atom:link href="https://Saksham03.github.io/categories/procedural/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/procedural/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📀AlgebRave📀</title>
-      <link>https://Saksham03.github.io/posts/algebrave/</link>
+      <link>http://localhost:1313/posts/algebrave/</link>
       <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
-      <guid>https://Saksham03.github.io/posts/algebrave/</guid>
+      <guid>http://localhost:1313/posts/algebrave/</guid>
       <description>&lt;p&gt;Audioreactive &amp;amp; Interactive Graphics experience for Kinect - play any song from Spotify, and see the background and your silhoutte dance to the beats of the music of your choice!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hi Ember!</title>
-      <link>https://Saksham03.github.io/posts/ember/</link>
+      <link>http://localhost:1313/posts/ember/</link>
       <pubDate>Sat, 23 Sep 2023 22:44:26 -0500</pubDate>
-      <guid>https://Saksham03.github.io/posts/ember/</guid>
+      <guid>http://localhost:1313/posts/ember/</guid>
       <description>&lt;p&gt;Ember from Pixar&amp;rsquo;s Elemental created entirely procedurally! Tons of noise, toolbox functions, and basic shader art.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SDF-based PBR Pokeballs</title>
-      <link>https://Saksham03.github.io/posts/pokeballs/</link>
+      <link>http://localhost:1313/posts/pokeballs/</link>
       <pubDate>Fri, 21 Apr 2023 23:03:50 -0500</pubDate>
-      <guid>https://Saksham03.github.io/posts/pokeballs/</guid>
+      <guid>http://localhost:1313/posts/pokeballs/</guid>
       <description>&lt;p&gt;Pokeballs made using Signed Distance Fields, implementing realtime PBR, Environment Mapping, Raymarching &amp;amp; Subsurface Scattering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WandaVision themed Minecraft</title>
-      <link>https://Saksham03.github.io/posts/minecraft/</link>
+      <link>http://localhost:1313/posts/minecraft/</link>
       <pubDate>Sat, 17 Dec 2022 22:09:40 -0500</pubDate>
-      <guid>https://Saksham03.github.io/posts/minecraft/</guid>
+      <guid>http://localhost:1313/posts/minecraft/</guid>
       <description>&lt;p&gt;Procedurally generated Minecrat terrain with post-process effects matching the theme of my favourite Marvel TV show, WandaVision.&lt;/p&gt;</description>
     </item>
   </channel>

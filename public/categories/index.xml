@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Capable Snakekeeper and all his wrongdoings</title>
-    <link>https://Saksham03.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on The Capable Snakekeeper and all his wrongdoings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Oct 2024 00:06:48 -0500</lastBuildDate>
-    <atom:link href="https://Saksham03.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graphics/Rendering</title>
-      <link>https://Saksham03.github.io/categories/graphics/rendering/</link>
+      <link>http://localhost:1313/categories/graphics/rendering/</link>
       <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
-      <guid>https://Saksham03.github.io/categories/graphics/rendering/</guid>
+      <guid>http://localhost:1313/categories/graphics/rendering/</guid>
       <description></description>
     </item>
     <item>
       <title>Research Impl</title>
-      <link>https://Saksham03.github.io/categories/research-impl/</link>
+      <link>http://localhost:1313/categories/research-impl/</link>
       <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
-      <guid>https://Saksham03.github.io/categories/research-impl/</guid>
+      <guid>http://localhost:1313/categories/research-impl/</guid>
       <description></description>
     </item>
     <item>
       <title>Interactive</title>
-      <link>https://Saksham03.github.io/categories/interactive/</link>
+      <link>http://localhost:1313/categories/interactive/</link>
       <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
-      <guid>https://Saksham03.github.io/categories/interactive/</guid>
+      <guid>http://localhost:1313/categories/interactive/</guid>
       <description></description>
     </item>
     <item>
       <title>Tooling</title>
-      <link>https://Saksham03.github.io/categories/tooling/</link>
+      <link>http://localhost:1313/categories/tooling/</link>
       <pubDate>Sat, 23 Dec 2023 00:06:48 -0500</pubDate>
-      <guid>https://Saksham03.github.io/categories/tooling/</guid>
+      <guid>http://localhost:1313/categories/tooling/</guid>
       <description></description>
     </item>
     <item>
       <title>Procedural</title>
-      <link>https://Saksham03.github.io/categories/procedural/</link>
+      <link>http://localhost:1313/categories/procedural/</link>
       <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
-      <guid>https://Saksham03.github.io/categories/procedural/</guid>
+      <guid>http://localhost:1313/categories/procedural/</guid>
       <description></description>
     </item>
     <item>
       <title>Themed</title>
-      <link>https://Saksham03.github.io/categories/themed/</link>
+      <link>http://localhost:1313/categories/themed/</link>
       <pubDate>Thu, 21 Dec 2023 23:19:49 -0500</pubDate>
-      <guid>https://Saksham03.github.io/categories/themed/</guid>
+      <guid>http://localhost:1313/categories/themed/</guid>
       <description></description>
     </item>
   </channel>
