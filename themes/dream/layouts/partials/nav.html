@@ -13,9 +13,9 @@
   {{ end }}
     <section class="flex items-center gap-4">
       <div class="avatar cursor-pointer hover">
-        <div class="h-10 rounded">
+        <a href="{{ site.BaseURL }}" class="h-10 rounded">
           <img src="{{ site.Params.avatar | relURL }}" alt="{{ site.Params.headerTitle }}" />
-        </div>
+        </a>
       </div>
 
       {{ if or site.Params.headerTitle site.Params.motto }}
