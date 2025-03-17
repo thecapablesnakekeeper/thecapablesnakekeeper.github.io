@@ -19,40 +19,23 @@
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
   </head>
 
-  <body x-data="{
-    flip: false,
-  }">
+  
     <!-- If backgroundImage defined -->
     <div id="dream-global-bg"></div>
 
     {{ partial "nav.html" . }}
 
-    <div class="flip-container" :class="{ 'flip-it': flip }">
-      <div class="flipper">
-        <div class="front">
-          <div class="container">
-            {{ block "main" . }} {{ end }}
+    <div class="container">
+      {{ block "main" . }} {{ end }}
 
-            {{ if site.Params.zenMode }}
-            <footer class="flex justify-between items-center gap-2 max-w-[65ch] mx-auto px-4 md:px-0 py-12">
-            {{ else }}
-            <footer class="flex justify-between items-center gap-2 px-4 py-12">
-            {{ end }}
-              {{ partial "footerLeft.html" . }}
-              {{ partial "footerRight.html" . }}
-            </footer>
-          </div>
-        </div>
-        <div class="back">
-          <div class="container">
-            {{ if site.Params.zenMode }}
-            {{ partial "zen-back.html" . }}
-            {{ else }}
-            {{ partial "back.html" . }}
-            {{ end }}
-          </div>
-        </div>
-      </div>
+      {{ if site.Params.zenMode }}
+      <footer class="flex justify-between items-center gap-2 max-w-[65ch] mx-auto px-4 md:px-0 py-12">
+      {{ else }}
+      <footer class="flex justify-between items-center gap-2 px-4 py-12">
+      {{ end }}
+        {{ partial "footerLeft.html" . }}
+        {{ partial "footerRight.html" . }}
+      </footer>
     </div>
 
     {{ partial "scripts.html" . }}

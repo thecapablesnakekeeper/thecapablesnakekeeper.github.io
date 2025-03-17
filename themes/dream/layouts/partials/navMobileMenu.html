@@ -2,7 +2,7 @@
 {{ $aboutPages := .Resources.ByType "page" }}
 {{ if gt (len $aboutPages) 0 }}
 <li>
-  <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="{{ T "about" }}">
+  <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer">
     <ion-icon name="information-circle"></ion-icon>
     {{- T "about" -}}
   </div>

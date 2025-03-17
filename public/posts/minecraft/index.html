@@ -76,9 +76,7 @@
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
   </head>
 
-  <body x-data="{
-    flip: false,
-  }">
+  
     
     <div id="dream-global-bg"></div>
 
@@ -89,7 +87,7 @@
   <div class="container flex justify-between px-4">
   
     <section class="flex items-center gap-4">
-      <div class="avatar cursor-pointer hover:online" @click="flip = !flip" title="Flip it!">
+      <div class="avatar cursor-pointer hover">
         <div class="h-10 rounded">
           <img src="/img/misc/website_logo.jpg" alt="Saksham Nagpal" />
         </div>
@@ -221,11 +219,8 @@
 </nav>
 
 
-    <div class="flip-container" :class="{ 'flip-it': flip }">
-      <div class="flipper">
-        <div class="front">
-          <div class="container">
-            
+    <div class="container">
+      
 <div class="mt-4 px-4">
   
   <div>
@@ -396,10 +391,10 @@ Perlin-based time varying under-lava effect:
 </div>
 
 
-            
-            <footer class="flex justify-between items-center gap-2 px-4 py-12">
-            
-              <div>
+      
+      <footer class="flex justify-between items-center gap-2 px-4 py-12">
+      
+        <div>
   
   <p>© 2025 The Capable Snakekeeper and all his wrongdoings</p>
   
@@ -408,7 +403,7 @@ Perlin-based time varying under-lava effect:
   
 </div>
 
-              <div
+        <div
   x-data="{ icons: [
     { name: 'moon', status: 'y' },
     { name: 'sunny', status: 'n' },
@@ -435,24 +430,7 @@ Perlin-based time varying under-lava effect:
   </template>
 </div>
 
-            </footer>
-          </div>
-        </div>
-        <div class="back">
-          <div class="container">
-            
-            <div class="dream-grid">
-  
-
-  
-
-  
-</div>
-
-            
-          </div>
-        </div>
-      </div>
+      </footer>
     </div>
 
     <script>
