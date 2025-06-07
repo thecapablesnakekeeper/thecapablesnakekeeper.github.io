@@ -8,7 +8,7 @@ lastmod: 2024-10-17T22:09:40-05:00
 addReadingTime: false
 cover: /img/minecraft/main_screen.png
 categories:
-  - Graphics/Rendering
+  - Rendering
   - Procedural
   - Themed
 tags:

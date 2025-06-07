@@ -11,7 +11,7 @@ cover: /img/cuda-boids/main.gif
 images:
    - /img/cuda-boids/main.gif
 categories:
-  - Graphics/Rendering
+  - Rendering
 tags:
   - C++
   - CUDA

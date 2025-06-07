@@ -6,8 +6,7 @@ cover: /img/erode/terrainx_portf_main.gif
 redirectUrl: https://github.com/GPU-Gang/WebGPU-Erosion-Simulation#readme
 addReadingTime: false
 categories:
-  - Graphics/Rendering
-  - Research Impl
+  - Rendering
   - Tooling
   - Interactive
 tags:

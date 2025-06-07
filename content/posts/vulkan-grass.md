@@ -6,8 +6,7 @@ cover: /img/vulkan-grass/main.gif
 redirectUrl: https://github.com/Saksham03/Vulkan-Grass-Rendering#readme
 addReadingTime: false
 categories:
-  - Graphics/Rendering
-  - Research Impl
+  - Rendering
 tags:
   - C++
   - Vulkan

@@ -6,8 +6,7 @@ cover: /img/meshing-around/main.gif
 redirectUrl: https://github.com/Saksham03/MeshingAround#readme
 addReadingTime: false
 categories:
-  - Graphics/Rendering
-  - Research Impl
+  - Rendering
 tags:
   - C++
   - DirectX12

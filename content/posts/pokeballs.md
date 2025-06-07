@@ -5,8 +5,7 @@ lastmod: 2024-10-21T23:03:50-05:00
 addReadingTime: false
 cover: /img/pokeballs/main.gif
 categories:
-  - Graphics/Rendering
-  - Research Impl
+  - Rendering
   - Procedural
   - Themed
 tags:
