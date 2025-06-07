@@ -59,7 +59,7 @@
       
       <div class="flex flex-wrap gap-2">
         {{ range .Params.categories }}
-          <span class="inline-flex w-fit items-center p-1 rounded-lg border cursor-pointer bg-primary" style="border-color: black; border-width: 1.5px;">
+          <span class="inline-flex w-fit items-center p-1 rounded-lg cursor-pointer bg-primary">
             {{ . }}
           </span>
         {{ end }}
@@ -67,7 +67,7 @@
 
       <div class="flex flex-wrap gap-2">
         {{ range .Params.tags }}
-          <span class="inline-flex w-fit items-center p-1 rounded-lg border cursor-pointer bg-sec" style="color: white; border-color: black; border-width: 1.5px;">
+          <span class="inline-flex w-fit items-center p-1 rounded-lg cursor-pointer bg-sec" style="color: white;">
             {{ . }}
           </span>
         {{ end }}
