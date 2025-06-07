@@ -16,6 +16,7 @@
 /readme.html
 /wp-*.php
 /xmlrpc.php
+public/*
 
 # Configuration
 wp-config.php

@@ -39,7 +39,7 @@
       <span data-format="luxon">{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</span>
     {{ else }}
       {{ .Date | time.Format "January 2006" }}
-    {{ end }}
+    {{ end }}    
     </p>
 
     {{ .Summary | emojify | safeHTML }}
@@ -54,5 +54,26 @@
       </div>
     </div>
     {{ end }}
+
+    <div class="flex flex-wrap gap-2">
+      
+      <div class="flex flex-wrap gap-2">
+        {{ range .Params.categories }}
+          <span class="inline-flex w-fit items-center p-1 rounded-lg border cursor-pointer bg-primary" style="border-color: black; border-width: 1.5px;">
+            {{ . }}
+          </span>
+        {{ end }}
+      </div>
+
+      <div class="flex flex-wrap gap-2">
+        {{ range .Params.tags }}
+          <span class="inline-flex w-fit items-center p-1 rounded-lg border cursor-pointer bg-sec" style="color: white; border-color: black; border-width: 1.5px;">
+            {{ . }}
+          </span>
+        {{ end }}
+      </div>
+
+    </div>
+
   </div>
 </a>

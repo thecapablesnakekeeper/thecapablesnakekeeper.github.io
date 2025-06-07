@@ -534,7 +534,7 @@ html {
   --border-btn: 1px;
   --tab-border: 1px;
   --tab-radius: 0.5rem;
-  --p: 76.6626% 0.135433 153.450024;
+  --p: 76.6627% 0.135433 153.450024;
   --pc: 33.3872% 0.040618 162.240129;
   --s: 61.3028% 0.202368 261.294233;
   --sc: 100% 0 0;
@@ -3477,6 +3477,11 @@ html {
 .bg-primary {
   --tw-bg-opacity: 1;
   background-color: var(--fallback-p,oklch(var(--p)/var(--tw-bg-opacity)));
+}
+
+.bg-sec {
+  --tw-bg-opacity: 1;
+  background-color: var(--fallback-ac,oklch(var(--ac)/var(--tw-bg-opacity)));
 }
 
 .p-1 {
