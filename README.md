@@ -1,1 +1,1 @@
-Init
+Personal website made using Hugo
