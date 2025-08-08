@@ -1,1 +1,2 @@
-Personal website made using Hugo
+Personal website created using Hugo
+
